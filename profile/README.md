@@ -1,15 +1,15 @@
 # Bem-vindo(a), nós somos a He4rt Developers 👋
 
-A He4rt Developers é uma comunidade de desenvolvedores com o intuito de promover aulões, mentorias e debates sobre tecnologias em gerais! 👨🏻‍💻
+A He4rt Developers é uma comunidade de pessoas desenvolvedoras e de entusiastas de tecnologia com o intuito de um espaço propício para o aprendizado em público em conjunto com um ambiente saudável e acolhedor para todos os que desejam se integrar na área. Nossa comunidade promove eventos especiais como aulões, mentorias e debates sobre tecnologias em geral! 👨🏻‍💻
 <br>
 <br>
 Além disso, nossa comunidade possui projetos autorais com conteúdos grátis e públicos, como:
 <br>
-<b>🟣 4noobs</b>: busca incentivar a criação de conteúdos didáticos para iniciantes feitos pela própria comunidade. 
+<b>🟣 [4noobs:](https://github.com/he4rt/4noobs)</b> iniciativa que busca, através da criação e divulgação de conteúdos didáticos voltados para o público iniciante na área de tecnologia, incentivar mais pessoas a colaborarem e compartilharem conhecimento entre si e para fora da comunidade. 
 <br>
-<b>🟣 He4rt Live</b>: projeto focado em ajudar no crescimento da comunidade de criadores de conteúdos na Twitch de todas as categorias, principalmente em LiveCoding.
+<b>🟣 [He4rt Live:](https://github.com/DanielHe4rt/livecoding4noobs)</b> projeto focado em auxiliar no crescimento da comunidade de criadores de conteúdos na Twitch de todas as categorias, principalmente em Live Coding.
 <br>
-<b>🟣 He4rt Delas</b>: nosso projeto feminino que tem como objetivo encorajar a inclusão de mulheres e minorias na nossa comunidade e em tecnologia, promovendo um espaço seguro e acolhedor para as mesmas. 
+<b>🟣 He4rt Delas</b>: projeto de inclusão e diversidade dentro da comunidade com o objetivo de inserir e acolher mais mulheres e pessoas não-binárias na He4rt, em um espaço seguro para compartilharem seu conhecimento e desenvolverem suas habilidades técnicas e sociais dentro do mundo de tecnologia.
 
 Para fazer parte da nossa comunidade, basta entrar no nosso Discord!
 ##
